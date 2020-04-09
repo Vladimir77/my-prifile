@@ -1,0 +1,14 @@
+body{background:rgb(245,245,245); 
+	color:rgb(33,33,33);
+	font-family: Courrier;
+	font-size:17px;}
+
+
+p{text-justify:center;}
+h1{color:#639a67;font-family: Helvetica;font-size:45px}
+img{width:500px;}
+h2{color:#b7efcd;font-family: Courrier;font-size:25px;font-weight:bolder;}
+a:hover{color:green;}
+@media(max-width: 760px){.container {width: 600px;}}
+@media(max-width: 500px){.container {width: 400px;}
+}
